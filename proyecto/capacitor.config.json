@@ -1,0 +1,5 @@
+{
+  "appId": "com.magic8ball.app",
+  "appName": "Magic 8 Ball",
+  "webDir": "dist"
+}
